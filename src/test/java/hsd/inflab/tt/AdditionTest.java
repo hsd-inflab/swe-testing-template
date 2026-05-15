@@ -1,8 +1,8 @@
-package test.java.hsd.inflab.tt;
+package hsd.inflab.tt;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import main.java.hsd.inflab.tt.Addition;
+import hsd.inflab.tt.Addition;
 
 public class AdditionTest {
     

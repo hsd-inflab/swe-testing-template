@@ -127,4 +127,12 @@ into your local terminal.
 
 ## Using this repo
 
-1) 
+1) In GitHub: Click on "Use this template", blue button top right. Choose "Create a new repository" and enter a sensible name. 
+
+2) After your new repo opens, click on "<> Code", blue button top right. Copy the Web URL.
+
+3) Open VSCode, Press Crtl + Shift + E, choose "Clone Repository" and enter the copied URL into the field at the top of the IDE. Choose a local folder and open the folder.
+
+4) Trust the authors and Open Terminal -> New Terminal.
+
+5) enter 'mvn test' to run the tests in the repo.
