@@ -135,4 +135,4 @@ into your local terminal.
 
 4) Trust the authors and Open Terminal -> New Terminal.
 
-5) enter 'mvn test' to run the tests in the repo.
+5) enter ```mvn test``` to run the tests in the repo.
