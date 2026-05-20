@@ -5,6 +5,7 @@ For the this template you need to install
 1) **Java 21** 
 2) **VsCode** 
 3) **Maven**
+4) **Git**
 
 on your computer.
 
@@ -40,6 +41,14 @@ on your computer.
   - or via installer (slower):
     (https://maven.apache.org/install.html)
 
+- Git
+  - via chocolatey (recommended):
+    ```powershell
+    choco install git
+    ```
+  - or via their website:
+    (https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren)
+    
 - If you used chocolatey for installation, you can use the command
   ```powershell
   choco list
@@ -50,6 +59,7 @@ on your computer.
   Temurin21 21.0.0
   vscode 1.95.2
   vscode.install 1.95.2
+  git 2.49.0
    ```
    
 </details>
@@ -87,6 +97,14 @@ on your computer.
     ```
     brew install maven
     ```
+
+- Git
+  - via brew (recommended):
+    ```
+    brew install git
+    ```
+  - or via their website:
+    (https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren)
 </details>
 
 
@@ -109,6 +127,14 @@ on your computer.
   ```bash
   sudo apt install maven
   ```
+
+- Git
+  - via bash (recommended):
+    ```bash
+    sudo apt install git
+    ```
+  - or via their website:
+    (https://git-scm.com/book/de/v2/Erste-Schritte-Git-installieren)
 </details>
 
 <br>
