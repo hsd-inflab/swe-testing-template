@@ -129,8 +129,8 @@ on your computer.
   ```
 
 - Git
-  - via apty (recommended):
-    ```
+  - via bash (recommended):
+    ```bash
     sudo apt install git
     ```
   - or via their website:
